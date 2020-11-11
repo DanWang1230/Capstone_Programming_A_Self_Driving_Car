@@ -3,15 +3,6 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 ---
 
-### Team
-
-This is an indivdual submission.
-| Name       | Email address | 
-|:-------------:|:-------------:| 
-| Dan Wang      | shenlin123000@gmail.com        | 
-
----
-
 ## Pipeline
 
 The walkthrough lectures are very helpful. I have learned 
