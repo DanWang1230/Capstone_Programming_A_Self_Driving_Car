@@ -11,7 +11,9 @@ The walkthrough lectures are very helpful. I have learned
 * the logic of detecting traffic light and sending correct waypoints for the traffic light
 * how to make the car slow down and then stop at a red traffic light.
 
-Other than the traffic light model, those lectures cover everything. For the part of the traffic light model, I found [this](https://github.com/josehoras/Self-Driving-Car-Nanodegree-Capstone) github repo and [this](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d) instruction very helpful. Next I'll talk about the steps about how I get the traffic model. A `video` named `sim_self_driving_car.mov` showing my result has been uploaded to the root directory.
+Other than the traffic light model, those lectures cover everything. For the part of the traffic light model, I found [this](https://github.com/josehoras/Self-Driving-Car-Nanodegree-Capstone) github repo and [this](https://medium.com/@WuStangDan/step-by-step-tensorflow-object-detection-api-tutorial-part-2-converting-dataset-to-tfrecord-47f24be9248d) instruction very helpful. Next I'll talk about the steps about how I get the traffic model.
+
+A `video` output has been uploaded [here](https://youtu.be/GYCmGXlb1hs).
 
 #### 1. Creating dataset
 
